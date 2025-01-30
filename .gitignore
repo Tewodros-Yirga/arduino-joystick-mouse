@@ -1,0 +1,14 @@
+# Ignore compiled Arduino sketches
+*.ino.hex
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore macOS Finder files
+.DS_Store
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore log files
+*.log
